@@ -1,5 +1,5 @@
 # Falcon 9 Landing Prediction
- A project to predict if the Falcon 9 first stage landing will be successful
+ A project to predict if the Falcon 9 first stage landing will be successful.
  The Jupyter Notebooks represent different steps of this project. You can find below these different steps.
 
 
@@ -12,4 +12,7 @@ Collected some data from a Wikipedia page and performed some data formatting/cle
 # 3. Data wrangling
 Perfomed some EDA, mainly converting the data in the 'Outcome' column into Training Labels.
 
-# 4. Exploratory Data Analysis
+# 4. Exploratory Data Analysis using SQL
+Some EDA using SQL queries to answer some questions about the SpaceX Mission data. 
+
+# 5. Exploratory Data Analysis using Pandas & Matplotlib
