@@ -19,7 +19,7 @@ Some EDA using SQL queries to answer some questions about the SpaceX Mission dat
 Further EDA with visuals, using Pandas and Matplotlib libraries.
 
 # 6. Interactive Visual Analytics & Dashboard
-Interactive analysis of launch records with Plotly Dash. Interactive map to analyze the launch site proximity with Folium.
+Interactive analysis of launch records with Plotly Dash. Interactive map to analyze the launch site proximity with Folium. The python script for this part can be found in the file "Build an Interactive Dashboard with Ploty Dash"
 
 # 7. Machine Learning Predictive Analysis (Classification)
 Train-test split to find the best parameters for SVM, Classification Trees, KNN, and Logistic Regression. We determine the method that performs best using test data (here based on accuracy). 
